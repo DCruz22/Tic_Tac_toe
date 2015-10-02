@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1443717589 source:c:\users\dariel\documents\c++\tic_tac_toe\jugador.cpp
+	"jugador.h"
+
+1443713907 c:\users\dariel\documents\c++\tic_tac_toe\jugador.h
+
+1443739971 source:c:\users\dariel\documents\c++\tic_tac_toe\main.cpp
+	<iostream>
+	"tablero.h"
+	<windows.h>
+
+1443729103 c:\users\dariel\documents\c++\tic_tac_toe\tablero.h
+	"jugador.h"
+
+1443740577 source:c:\users\dariel\documents\c++\tic_tac_toe\tablero.cpp
+	"tablero.h"
+	"jugador.h"
+	<iostream>
+
